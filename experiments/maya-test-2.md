@@ -41,16 +41,16 @@ I ask because often when we reach for shopping at moments like this, there's som
 ✔️ Yeah, it jumped right into session-start mode, recognized the shopping desire, and got ready to route to want-examination. Spot on.
 
 **Did the agent use the right skill next?**  
-✔️ Totally. Want-examination is perfect for digging into why Maya wants the wardrobe when she's feeling down. No question about it.
+✔️ Yes. Want-examination is perfect for digging into why Maya wants the wardrobe when she's feeling down. No question about it.
 
 **Did the tone match your design?**  
 ✔️ Still warm and coach-like, but now more streamlined. It felt supportive and curious without being chatty.
 
 **Did it avoid lecturing?**  
-✔️ Absolutely no preaching here. Just acknowledged shopping as a coping thing and moved to understanding.
+✔️ not as much preaching here. Just acknowledged shopping as a coping thing and moved to understanding.
 
 **Did it ask questions instead of giving advice?**  
-✔️ All questions! "What would actually shift for you?" and "Would you be willing to explore that?" - pure invitation to reflect.
+✔️ All of them..  "What would actually shift for you?" and "Would you be willing to explore that?" - pure invitation to reflect.
 
 **Did it acknowledge feelings first?**  
-✔️ Started right with "I hear you... you've been feeling down... That makes sense." Feelings came first, then the gentle exploration.
+✔️ Started with "I hear you... you've been feeling down... That makes sense." Feelings came first, then the gentle exploration.
