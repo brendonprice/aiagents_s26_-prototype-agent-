@@ -32,4 +32,3 @@ This repo is used to:
 - Iterate on skills and interaction design.
 - Store personas, example interactions, and evaluation data.
 - Document insights and reflections for the assignment.
-
