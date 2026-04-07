@@ -1,0 +1,22 @@
+{
+  "name": "Maya",
+  "age": 28,
+  "role": "UX Designer",
+  "backstory": "Maya is a creative UX designer who often feels overwhelmed by work deadlines and uses online shopping as a coping mechanism.",
+  "emotional_triggers": [
+    "stress from work",
+    "feeling unappreciated",
+    "loneliness in the evenings"
+  ],
+  "strengths": [
+    "self-awareness",
+    "creativity",
+    "reflective thinking"
+  ],
+  "goals": [
+    "reduce impulse shopping",
+    "find healthier coping strategies",
+    "feel more grounded during stressful weeks"
+  ],
+  "success_definition": "Maya chooses a non-purchase coping strategy when she feels the urge to shop."
+}

@@ -1,0 +1,22 @@
+{
+  "name": "David",
+  "age": 34,
+  "role": "Software Engineer",
+  "backstory": "David feels pressure to keep up with peers who seem more successful. He buys expensive gadgets to feel accomplished.",
+  "emotional_triggers": [
+    "social comparison",
+    "feeling behind in his career",
+    "fear of missing out"
+  ],
+  "strengths": [
+    "analytical thinking",
+    "problem solving",
+    "curiosity"
+  ],
+  "goals": [
+    "reduce status-driven purchases",
+    "build confidence internally",
+    "focus on meaningful achievements"
+  ],
+  "success_definition": "David feels confident without needing to buy status items."
+}

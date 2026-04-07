@@ -1,0 +1,23 @@
+{
+  "name": "Brendon",
+  "age": 22,
+  "role": "Student",
+  "backstory": "Brendon is thoughtful, analytical, and often uses structured tools to improve his workflow. He sometimes buys tech or productivity items when feeling stuck or overwhelmed.",
+  "emotional_triggers": [
+    "feeling behind on assignments",
+    "wanting to optimize productivity",
+    "stress from complex technical tasks"
+  ],
+  "strengths": [
+    "iterative problem solving",
+    "rapid skill acquisition",
+    "attention to detail",
+    "creative exploration"
+  ],
+  "goals": [
+    "reduce productivity-driven impulse purchases",
+    "build confidence in existing tools",
+    "develop healthier coping strategies during stress"
+  ],
+  "success_definition": "Brendon chooses reflection or a small grounding action instead of buying a new tool or gadget."
+}

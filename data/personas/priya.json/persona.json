@@ -1,0 +1,22 @@
+{
+  "name": "Priya",
+  "age": 41,
+  "role": "Operations Manager",
+  "backstory": "Priya grew up with financial instability and now overbuys household items when she feels scarcity anxiety.",
+  "emotional_triggers": [
+    "limited-time sales",
+    "fear of running out",
+    "stress about family responsibilities"
+  ],
+  "strengths": [
+    "resourcefulness",
+    "planning",
+    "resilience"
+  ],
+  "goals": [
+    "feel secure without hoarding",
+    "recognize scarcity messaging",
+    "build trust in her ability to manage resources"
+  ],
+  "success_definition": "Priya feels secure without needing to stockpile items."
+}
